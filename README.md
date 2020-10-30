@@ -47,7 +47,7 @@ The code was tested under two environments:
 ## Contact
 
 Mostafa Izz
-izz.mostafa@gmail.com
+mostafaizz1408@gmail.com
 
 ## References
 
